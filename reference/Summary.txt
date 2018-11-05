@@ -1,0 +1,25 @@
+Main goal:
+ - summary the indonesia text using machine learning approach
+
+Dataset:
+ - twitter
+ - news
+ - blogger
+
+Steps:
+ 1. pre-processing:
+    - colletion data and cleansing the data
+    - reduce the problem dimensionality (stop words, stemming, features selection, etc.)
+ 2. dataset modeling: 
+    - deciding how to construct training datadatset. 
+ 3. Analysis: 
+    - summary indonesian text using one or more algorithm. many options: Reinforcement Algorithm (Jiwanggi & Adriani, 2016), k-nn, SVM, Naive Bayes, Neural network
+
+
+Referencess:
+ Summary indonesian text
+  - Meganingrum Arista Jiwanggi, Mirna Adriani. 2016, "Topic Summarization of Microblog Document in Bahasa Indonesia using the Phrase Reinforcement Algorithm"
+
+ Pre-processing models (OPTIONS)
+  - Mirna Adriani, Jelita Asian, Bobby Nazief, Seyed MM Tahaghoghi, Hugh E Williams. 2007, "Stemming Indonesian: A confix-stripping approach" 
+  - Mirna Adriani. 2000, "Using statistical term similarity for sense disambiguation in cross-language information retrieval"
